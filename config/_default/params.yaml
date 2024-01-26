@@ -118,7 +118,7 @@ creativeCommons:
   # sa: true # Adaptations must be shared under the same terms.
 
 utterances:
-  repo: razonyang/hugo-theme-bootstrap-skeleton # Replace with your repository.
+  repo: hivenou/hugo-theme-bootstrap-skeleton # Replace with your repository.
   #issueTerm: pathname # pathname, url, title, og:title
   label: comment
   # By default, light and dark mode correspond to github-light and github-dark, respectively.
@@ -185,6 +185,6 @@ repo:
 
 topAppBar:
   social:
-    github: razonyang/hugo-theme-bootstrap
-    patreon: razonyang
-    paypal: razonyang
+    github: hivenou/hugo-theme-bootstrap
+    patreon: hivenou
+    paypal: hivenou
