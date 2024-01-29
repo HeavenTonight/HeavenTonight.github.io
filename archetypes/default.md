@@ -1,7 +1,7 @@
 ---
 # type: docs 
-title: HivenOu Home Page
-date: 2022-07-25
+title: {{ replace .Name "-" " " | title }}
+date: {{ .Date }}
 featured: false
 draft: true
 comment: true

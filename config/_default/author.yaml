@@ -7,10 +7,11 @@ location: Earth # HTML markup are supported, such as: <a href='https://www.opens
 params: {
   # layout: compact
 }
+# See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
 social:
-  email: hivenou@gmail.com
-  github: hivenou/hugo-theme-bootstrap
-  twitter: hivenou
-  patreon: hivenou
-  paypal: hivenou
+  email: ouguiyong@gmail.com
+  github: HeavenTonight
+  twitter: Hiven_Ou
+  patreon: hiven
+  paypal: hiven
   rss: "" # Remove RSS

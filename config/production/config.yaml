@@ -1,2 +1,3 @@
-baseURL: https://heaventonight.github.io
-googleAnalytics: 
+# services:
+#   googleAnalytics:
+#     ID: G-123456

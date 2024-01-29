@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://heaventonight.github.io/
 title: Hugo Bootstrap Skeleton
 theme: hugo-theme-bootstrap
 copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
@@ -14,8 +14,6 @@ paginate: 10
 enableRobotsTXT: true
 enableEmoji: true
 pygmentsUseClasses: true
-# googleAnalytics: UA-123-45
-# disqusShortname: yourdiscussshortname
 
 blackfriday:
   hrefTargetBlank: true
@@ -31,6 +29,11 @@ build:
 
 permalinks:
   news: /news/:year/:month/:title/
+  blog: /blog/:year/:month/:title/
 
 # module:
   # proxy: https://goproxy.cn
+
+# services:
+#   disqus:
+#     shortname: your-disqus-shortname
