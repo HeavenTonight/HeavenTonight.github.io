@@ -9,9 +9,9 @@ params: {
 }
 # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
 social:
-  email: ouguiyong@gmail.com
-  github: HeavenTonight
-  twitter: Hiven_Ou
-  patreon: hiven
-  paypal: hiven
+  email: razonyang@gmail.com
+  github: razonyang/hugo-theme-bootstrap
+  twitter: razonyang
+  patreon: razonyang
+  paypal: razonyang
   rss: "" # Remove RSS
