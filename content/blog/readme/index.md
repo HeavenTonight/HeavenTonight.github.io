@@ -8,7 +8,7 @@ tags:
 
 
 
-![Photo](featured-sample.jpeg)
+![Photo](test.jpeg)
 
 See also [Hiven Space](https://github.com/HeavenTonight/HeavenTonight).
 

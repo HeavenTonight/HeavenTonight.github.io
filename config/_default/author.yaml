@@ -1,5 +1,5 @@
 name: Hiven Ou
-# avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
+avatar: images/avatar.png # Avatar image. Default to "images/profile.webp".
 bio: 'Gopher, Javaer, Pythoner, Rustcer, Full Stack Engineer.'
 company: Daocloud # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
 location: China # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
