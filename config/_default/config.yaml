@@ -1,7 +1,7 @@
 baseURL: https://heaventonight.github.io/
-title: Hugo Bootstrap Skeleton
+title: Hiven Blogs
 theme: hugo-theme-bootstrap
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+copyright: 'Copyright © 2016-{year} Hiven. All Rights Reserved.'
 defaultContentLanguage: en
 # hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
