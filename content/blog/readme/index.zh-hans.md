@@ -7,6 +7,6 @@ tags:
 ---
 ![Photo](test.jpeg)
 
-See also [Hiven Space](https://github.com/HeavenTonight/HeavenTonight).
+See also [Hiven Space](https://github.com/HeavenTonight).
 
 <!--more-->
